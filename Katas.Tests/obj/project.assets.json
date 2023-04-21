@@ -6270,11 +6270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas.Tests/Katas.Tests.csproj",
+      "projectUniqueName": "/Users/joakimmyhrewibe/Desktop/katas/Katas.Tests/Katas.Tests.csproj",
       "projectName": "Katas.Tests",
-      "projectPath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas.Tests/Katas.Tests.csproj",
+      "projectPath": "/Users/joakimmyhrewibe/Desktop/katas/Katas.Tests/Katas.Tests.csproj",
       "packagesPath": "/Users/joakimmyhrewibe/.nuget/packages/",
-      "outputPath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas.Tests/obj/",
+      "outputPath": "/Users/joakimmyhrewibe/Desktop/katas/Katas.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joakimmyhrewibe/.nuget/NuGet/NuGet.Config"
@@ -6289,8 +6289,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj": {
-              "projectPath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj"
+            "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj": {
+              "projectPath": "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj"
             }
           }
         }

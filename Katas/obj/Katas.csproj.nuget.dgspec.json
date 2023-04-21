@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj": {}
+    "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj": {}
   },
   "projects": {
-    "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj": {
+    "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj",
+        "projectUniqueName": "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj",
         "projectName": "Katas",
-        "projectPath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/Katas.csproj",
+        "projectPath": "/Users/joakimmyhrewibe/Desktop/katas/Katas/Katas.csproj",
         "packagesPath": "/Users/joakimmyhrewibe/.nuget/packages/",
-        "outputPath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas/obj/",
+        "outputPath": "/Users/joakimmyhrewibe/Desktop/katas/Katas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joakimmyhrewibe/.nuget/NuGet/NuGet.Config"

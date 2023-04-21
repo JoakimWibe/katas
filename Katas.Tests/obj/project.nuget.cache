@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+aKZOnCJDMluC8hauvCsmWOzsp+qxTNdMSS8XZdlDvllNjpCLbhInQ3vVgtiuV7cirrwHMB14E3e7dBYkHq4Q==",
+  "dgSpecHash": "azTV95ACRGIz9V8xrer5YR2+lW5iv8BQndfY2Ud3MtbzDDazWahtZnjtktwrTPMFoO7IqsDLhH/vuMTxQPk/Aw==",
   "success": true,
-  "projectFilePath": "/Users/joakimmyhrewibe/Desktop/salt/katas/Katas.Tests/Katas.Tests.csproj",
+  "projectFilePath": "/Users/joakimmyhrewibe/Desktop/katas/Katas.Tests/Katas.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/joakimmyhrewibe/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/joakimmyhrewibe/.nuget/packages/fluentassertions/6.10.0/fluentassertions.6.10.0.nupkg.sha512",
