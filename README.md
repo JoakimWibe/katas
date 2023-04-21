@@ -1,0 +1,1 @@
+﻿Just a collection of C# Katas, as well as unit tests.
